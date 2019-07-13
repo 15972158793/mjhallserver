@@ -1,0 +1,10 @@
+{
+ "host":"jlhy.fa282.com:9998",
+ "inhost":"127.0.0.1:9998",
+ "login":"127.0.0.1:8031",
+ "redis":"127.0.0.1:6379",
+ "db":"root:kk30123kk!!@tcp(127.0.0.1:3308)/jyqp?charset=utf8&timeout=10s",
+ "white":["0.0.0.0"],
+ "printlevel":0,
+ "filelevel":0
+}

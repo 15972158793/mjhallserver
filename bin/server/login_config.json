@@ -1,0 +1,14 @@
+{
+ "host":"0.0.0.0:8031",
+ "redis":"127.0.0.1:6379",
+ "rcredis":"127.0.0.1:6379",
+ "db":"root:kk30123kk!!@tcp(127.0.0.1:3308)/jyqp?charset=utf8&timeout=10s",
+ "guest":1,
+ "newcard":3,
+ "newgold":1000000,
+ "version":9999,
+ "minversion":0,
+ "gateserver":["game.niuniu108031.hbyouyou.com:6002"],
+ "printlevel":0,
+ "filelevel":0
+}

@@ -1,0 +1,11 @@
+{
+  "ver":[1000],
+  "port":1239,
+  "app":["jyqp"],
+  "testver":[1000],
+  "testip":[["115.191.133.191"]],
+  "root1":"/home/wwwroot/default/",
+  "root2":"down/versionMgr/", 
+  "cdn":"cdng.hbyouyou.com",
+  "domain":"game.hbyouyou.com"
+}

@@ -1,0 +1,11 @@
+{
+ "host":"0.0.0.0:1231",
+ "redis":"127.0.0.1:6379",
+ "gamedb":"root:kk30123kk!!@tcp(127.0.0.1:3308)/jyqp?charset=utf8&timeout=10s",
+ "htdb":"root:kk30123kk!!@tcp(127.0.0.1:3308)/rjqp_ht?charset=utf8&timeout=10s",
+ "hostdb":"root:kk30123kk!!@tcp(127.0.0.1:3308)/rjqp_host?charset=utf8&timeout=10s",
+ "gameip":"103.37.44.50",
+ "loginport":8031,
+ "centerport":9998,
+ "white":["0.0.0.0"]
+}

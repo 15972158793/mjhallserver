@@ -1,0 +1,12 @@
+{
+ "id":2,
+ "host":"jlhy.fa282.com:2091",
+ "inhost":"127.0.0.1:2091",
+ "redis":"127.0.0.1:6379",
+ "rcredis":"127.0.0.1:6379",
+ "login":"127.0.0.1:8031",
+ "db":"root:kk30123kk!!@tcp(127.0.0.1:3308)/jyqp?charset=utf8&timeout=10s",
+ "type":2,
+ "printlevel":0,
+ "filelevel":0
+}

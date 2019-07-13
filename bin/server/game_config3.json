@@ -1,0 +1,18 @@
+{
+ "id":3,
+ "host":"jlhy.fa282.com:3091",
+ "inhost":"127.0.0.1:3091",
+ "redis":"127.0.0.1:6379",
+ "rcredis":"127.0.0.1:6379",
+ "login":"127.0.0.1:8031",
+ "db":"root:kk30123kk!!@tcp(127.0.0.1:3308)/jyqp?charset=utf8&timeout=10s",
+ "type":3,
+ "bzwdealup":[400000,150000,150000],
+ "bzwdealdown":[400000,150000,150000],
+ "bzwseatup":[50000,50000,50000],
+ "bzwseatdown":[50000,50000,50000],
+ "bzwbettime":[30,30,30],
+ "log":[284306,316352,292498,306221,367248],
+ "printlevel":0,
+ "filelevel":0
+}
